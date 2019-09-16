@@ -1,4 +1,3 @@
-
 // Course:          CS4267
 // Student name:    Warren Davis
 // Student ID:      000545250
